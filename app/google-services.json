@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "933052502694",
+    "project_id": "keep-my-note-a54b6",
+    "storage_bucket": "keep-my-note-a54b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933052502694:android:7f0f6c277a8fe3204f5a67",
+        "android_client_info": {
+          "package_name": "com.example.keepmynote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933052502694-d42tnqhnn8mk358b6r8rhmeejcajnbb4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.keepmynote",
+            "certificate_hash": "b03c76636fa0d83df83cf2993f7823289b91630e"
+          }
+        },
+        {
+          "client_id": "933052502694-3l21s9ecdca94o1c7ciu3mro4s3eqtfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdXR-lQtt-wMr2q5mry0NukxEhErSM72U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933052502694-3l21s9ecdca94o1c7ciu3mro4s3eqtfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
